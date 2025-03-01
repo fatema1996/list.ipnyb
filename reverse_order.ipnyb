@@ -1,0 +1,5 @@
+#What if you want to reverse the order of a list, regardless of the alphabet?
+
+thislist = ["banana", "Orange", "Kiwi", "cherry"]
+thislist.reverse()
+print(thislist)
